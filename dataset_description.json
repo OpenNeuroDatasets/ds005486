@@ -2,7 +2,7 @@
     "Name": "PREDICT",
     "BIDSVersion": "1.6.0",
     "Authors": [
-        "Nahian S. Chowdhury, Chuan Bi, Andrew J. Furman, Alan KI Chiang, Patrick Skippen, Emily Si, Samantha K Millard, Sarah M. Margerison, Darrah Spies, Michael L. Keaser, Joyce T. Da Silva, Shuo Chen, Siobhan M. Schabrun, David A. Seminowicz"
+        "“Nahian S. Chowdhury”, “Chuan Bi”, “Andrew J. Furman”, “Alan KI Chiang”, “Patrick Skippen, Emily Si, Samantha K Millard”, “Sarah M. Margerison”, “Darrah Spies”, “Michael L. Keaser”, “Joyce T. Da Silva”, “Shuo Chen”, Siobhan M. Schabrun”, “David A. Seminowicz”"
     ],
     "License": "CC0"
 }
