@@ -1,0 +1,11 @@
+{
+
+
+  "TaskName": "rest",
+  "EEGReference": "common",
+  "SamplingFrequency": 25000,
+  "PowerLineFrequency": "n/a",
+  "SoftwareFilters": "n/a"
+
+}
+
